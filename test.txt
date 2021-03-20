@@ -1,1 +1,2 @@
 Testujemy Gita
+Teraz testujemy git pull 
